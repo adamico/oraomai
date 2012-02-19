@@ -7,7 +7,7 @@ categories:
 - Photography
 - Francais
 ---
-{% img /images/IMGP7959.jpg '5 e 6' %}
+{% img /images/photos/IMGP7959.jpg '5 e 6' %}
 
 Nous sommes entourés de ces polygones : pentagones, hexagones.
 

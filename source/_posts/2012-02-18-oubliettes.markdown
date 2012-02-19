@@ -7,6 +7,6 @@ categories:
 - Photography
 - Francais
 ---
-{% img /images/IMGP8076.jpg 'Oubliettes.' %}
+{% img /images/photos/IMGP8076.jpg 'Oubliettes.' %}
 
 Un enfant oublie ses vieux jeux. Un jouet oublie ses petits maitres.
