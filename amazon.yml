@@ -1,0 +1,4 @@
+service: cloudfront
+aws_access_key_id: <%= ENV['AWS_ACCESS']>
+aws_secret_access_key: <%= ENV['AWS_SECRET']>
+managed_dns: y
