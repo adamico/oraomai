@@ -12,7 +12,10 @@ group :development do
   gem 'rubypants'
   gem 'rb-fsevent'
   gem 'stringex'
-  gem 'liquid', '2.2.2'
+  gem 'right_aws'
+  gem 'mime-types'
+  gem 'public_suffix_service'
+  gem 'net-dns'
 end
 
 gem 'sinatra', '1.2.6'
