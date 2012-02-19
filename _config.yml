@@ -22,6 +22,13 @@ subscribe_email:
 email:
 
 # ----------------------- #
+#       Deployment        #
+# ----------------------- #
+
+deploy_config:
+
+
+# ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
 
@@ -30,11 +37,17 @@ root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
+stylesheets: public/stylesheets
 plugins: plugins
+blog_index_dir: source
 code_dir: downloads/code
 category_dir: blog/categories
+new_post_ext: markdown
+new_page_ext: markdown
+server_port: 4000
+
 markdown: rdiscount
-pygments: false # default python pygments have been replaced by pygments.rb
+pygments: false       # default python pygments have been replaced by pygments.rb
 
 paginate: 5           # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
