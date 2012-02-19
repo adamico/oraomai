@@ -218,7 +218,7 @@ end
 desc "Deploy task"
 task :deploy do
   raise "!! Please setup your deployment environment first with `rake setup_deploy`" if deploy_config.nil?
-  Rake::Task[:copydot].execute
+  Rake::Task[:copydot].invoke(source_dir, public_dir)
   Octopress.send("deploy_#{deploy_config}")
 end
 
