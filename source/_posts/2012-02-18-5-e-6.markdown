@@ -1,0 +1,14 @@
+---
+layout: post
+title: "5 e 6"
+date: 2012-02-18 22:09
+comments: true
+categories:
+- Photography
+- Francais
+---
+{% img /images/IMGP7959.jpg '5 e 6' %}
+
+Nous sommes entourés de ces polygones : pentagones, hexagones.
+
+Symbolique d'un pentagone qui côtoierait l'hexagone ?

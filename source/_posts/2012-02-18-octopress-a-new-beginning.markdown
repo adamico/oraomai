@@ -4,6 +4,7 @@ title: "Octopress: a new beginning."
 date: 2012-02-18 14:45
 comments: true
 categories:
+- English
 - Blogging
 - Code
 ---
@@ -13,6 +14,7 @@ Starting a new blog. I've done this countless times and yet I never managed to k
 This time I'm using the brilliant [Octopress](http://octopress.org "Octopress website") framework for [Jekyll](http://github.com/mojombo/jekyll "Jekyll website") static blog generator. Yes, this automatically implies I'm a hacker. Throw the stone at me if you think you really know the true meaning of "hacker". I can safely admit I really like hacking at the source of the software I use especially when I can read and understand the code it's written in.
 
 Let me introduce myself. Hi! I'm Andrea a web developer by chance and an [MD](http://en.wikipedia.org/wiki/Doctor_of_Medicine "Wikipedia Doctor of Medicine page") by education (*NDA: is this English?*) and a photographer by leisure and... recently somebody different, with eyes narrowly open.
+<!-- more -->
 
 The goal of this first post was simply to illustrate what I did in practice before starting writing these words. I'll have a try at that now.
 
