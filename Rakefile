@@ -206,6 +206,12 @@ end
 # Deploying  #
 ##############
 
+desc "Deploy website via s3cmd"
+task :s3 do
+  puts "## Deploying website via s3cmd"
+  ok_failed system("s3cmd sync --acl-public --reduced-redundancy public/* s3://#{s3_bucket}/")
+end
+
 desc "Default deploy task"
 task :deploy do
   # Check if preview posts exist, which should not be published
