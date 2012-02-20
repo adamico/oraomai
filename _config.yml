@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.oraomai.com
+title: Ora o mai
+subtitle: "Now or never: code, pics and stuff"
+author: Andrea D'Amico
 simple_search: http://google.com/search
-description:
+description: a blog about programming, photography and... a bit of mistery
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
