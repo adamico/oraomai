@@ -3,6 +3,7 @@ layout: post
 title: "Cuori al tramonto"
 date: 2012-02-22 22:23
 comments: true
+thumbnail: http://www.oraomai.com/images/photos/DSC02289-thumb.jpg
 categories:
 - italiano
 - photography
